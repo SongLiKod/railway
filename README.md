@@ -10,7 +10,7 @@
 #### 另外在此批评 github id ： `zzysite` 尊重他人智力成果 ，加上原作者的备注，谢谢
 
 [![55Egg.png](https://i.w3tt.com/2021/09/08/55Egg.png)](https://img.tg/image/55Egg)
-
+[link](https://railway.app/)
 ## 概述
 
 用于在 railway 上部署 vless+websocket+tls，每次部署自动选择最新的 alpine linux 和 Xray core 。  
