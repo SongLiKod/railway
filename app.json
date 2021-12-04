@@ -32,7 +32,7 @@
             "value": "https://raw.githubusercontent.com/SongLiKod/HerokuXray/master/etc/StoreFiles"
         }
     },
-    "website": "https://github.com/SongLiKod/XrayHeroku",
-    "repository": "https://github.com/SongLiKod/XrayHeroku",
+    "website": "https://github.com/SongLiKod/HerokuXray",
+    "repository": "https://github.com/SongLiKod/HerokuXray",
     "stack": "container"
 }
